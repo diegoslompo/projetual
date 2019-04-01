@@ -2,9 +2,9 @@
 ![alt text](https://projetual.com.br/site-novo/wp-content/themes/projetual/assets/img/logo-projetual-vert.png)
 
 
-###Olá! e aí... está preparado? Ele é bem simples, então não se assuste, aposto que você irá tirar de "letra" 😎
+### Olá! e aí... está preparado? Ele é bem simples, então não se assuste, aposto que você irá tirar de "letra" 😎
 
-#####O que esperamos de você como Front End ?
+##### O que esperamos de você como Front End ?
   - Conhecimentos avançados em CSS, e saiba como utilizar SASS ou LESS para facilitar seu dia a dia;
   - Claro o mais obvio 😆, dominio da linguagem Javascript. Você poderá utilizar os recursos que estiver a disposição, mas la vai uma dica! gostamos de ver códigos seus, ver um js puro e ES6 seria demais! então use plugins com moderação, combinado ?
   - Entender como funciona os conceitos de usabilidade e acessibilidade, para aplicalos adequadamente;
@@ -12,7 +12,7 @@
   - Ter uma ótima orientação sobre semantica, de estilo, de marcação e dos scripts;
   - Ahh e também gostamos de ver componentes reutilizaveis 😉
 
-#####Projeto
+##### Projeto
  A ideia é simplesmente criar uma lista de produtos que chamaremos de "catalog", onde poderemos escolher a variação de cor e assim possibilitarmos a compra direta para o carrinho de compras!
  Ou seja, ao clicar em comprar em um produto da lista, deverá levar ao carrinho chamado de "cart", garantindo que o produto não possa ser enviado caso nenhuma variação de cor tenha sido selecionado. Ao mesmo tempo, iremos garantir que a lista de produtos no carrinho não seja perdida, quando navegarmos para o "catalog" novamente. Simples não ?
 
@@ -37,7 +37,7 @@ Requisitos Cart:
 * ➡️ Criar botão continuar comprando, e sua ação de voltar a lista "Catalog" sem perder os produtos adicionados;
 
 
-##🌐 Diferenciais caso utilize React.js
+## 🌐 Diferenciais caso utilize React.js
 - Comprender cycle life e comunicação assincrona;
 - React Router;
 - Redux ou Flux;
