@@ -2,7 +2,7 @@
 ![alt text](https://projetual.com.br/site-novo/wp-content/themes/projetual/assets/img/logo-projetual-vert.png)
 
 
-### Olá! e aí... está preparado? Ele é bem simples, então não se assuste, aposto que você irá tirar de "letra" 😎
+### Olá! e aí... está preparado para nosso projeto? Ele é bem simples, então não se assuste aposto que você irá tirar de "letra" 😎
 
 ##### O que esperamos de você como Front End ?
   - Conhecimentos avançados em CSS, e saiba como utilizar SASS ou LESS para facilitar seu dia a dia;
@@ -18,7 +18,7 @@
 
  Leia atentamente os requisitos das páginas pois elas se conversam entre si.
 
-## ⚡️ Projeto, Meu Carrinho
+## ⚡️ Projeto, Catalog + Cart
 
 Requisitos Catalog:
 * ➡️ Criar 6 celulas de produtos diferentes;
